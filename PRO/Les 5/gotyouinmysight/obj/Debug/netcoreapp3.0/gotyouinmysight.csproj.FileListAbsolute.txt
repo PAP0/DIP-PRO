@@ -1,0 +1,11 @@
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 5\gotyouinmysight\obj\Debug\netcoreapp3.0\gotyouinmysight.csprojAssemblyReference.cache
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 5\gotyouinmysight\obj\Debug\netcoreapp3.0\gotyouinmysight.AssemblyInfoInputs.cache
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 5\gotyouinmysight\obj\Debug\netcoreapp3.0\gotyouinmysight.AssemblyInfo.cs
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 5\gotyouinmysight\bin\Debug\netcoreapp3.0\gotyouinmysight.exe
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 5\gotyouinmysight\bin\Debug\netcoreapp3.0\gotyouinmysight.deps.json
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 5\gotyouinmysight\bin\Debug\netcoreapp3.0\gotyouinmysight.runtimeconfig.json
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 5\gotyouinmysight\bin\Debug\netcoreapp3.0\gotyouinmysight.runtimeconfig.dev.json
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 5\gotyouinmysight\bin\Debug\netcoreapp3.0\gotyouinmysight.dll
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 5\gotyouinmysight\bin\Debug\netcoreapp3.0\gotyouinmysight.pdb
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 5\gotyouinmysight\obj\Debug\netcoreapp3.0\gotyouinmysight.dll
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 5\gotyouinmysight\obj\Debug\netcoreapp3.0\gotyouinmysight.pdb

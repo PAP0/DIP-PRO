@@ -1,0 +1,3 @@
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 5\Practicum\obj\Debug\netcoreapp3.0\Practicum.csprojAssemblyReference.cache
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 5\Practicum\obj\Debug\netcoreapp3.0\Practicum.AssemblyInfoInputs.cache
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 5\Practicum\obj\Debug\netcoreapp3.0\Practicum.AssemblyInfo.cs

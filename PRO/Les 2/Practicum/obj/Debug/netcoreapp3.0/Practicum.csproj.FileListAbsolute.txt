@@ -1,0 +1,11 @@
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 2\Practicum\bin\Debug\netcoreapp3.0\Practicum.exe
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 2\Practicum\bin\Debug\netcoreapp3.0\Practicum.deps.json
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 2\Practicum\bin\Debug\netcoreapp3.0\Practicum.runtimeconfig.json
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 2\Practicum\bin\Debug\netcoreapp3.0\Practicum.runtimeconfig.dev.json
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 2\Practicum\bin\Debug\netcoreapp3.0\Practicum.dll
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 2\Practicum\bin\Debug\netcoreapp3.0\Practicum.pdb
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 2\Practicum\obj\Debug\netcoreapp3.0\Practicum.csprojAssemblyReference.cache
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 2\Practicum\obj\Debug\netcoreapp3.0\Practicum.AssemblyInfoInputs.cache
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 2\Practicum\obj\Debug\netcoreapp3.0\Practicum.AssemblyInfo.cs
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 2\Practicum\obj\Debug\netcoreapp3.0\Practicum.dll
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.2\PRO\Les 2\Practicum\obj\Debug\netcoreapp3.0\Practicum.pdb
